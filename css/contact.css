@@ -1,0 +1,9 @@
+body{
+  margin: 75px;
+}
+#contact{
+  color: #494e6b;
+}
+#contact a{
+  color: #494e6b !important;
+}
