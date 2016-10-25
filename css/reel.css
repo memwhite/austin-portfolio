@@ -1,0 +1,51 @@
+h1{
+  margin-top: 75px;
+  text-align: center;
+  color: navy;
+}
+h3 {
+  color: navy;
+  margin: 30px;
+}
+#sherlock1{
+  width: 560;
+  height: 315;
+  margin-top: 75px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+
+  -moz-box-shadow: 4px 4px 14px #000;
+  -webkit-box-shadow: 4px 4px 14px #000;
+  box-shadow: 4px 4px 14px #000;
+
+  -moz-transform:rotate(10deg);
+  -webkit-transform:rotate(10deg);
+  -o-transform:rotate(10deg);
+  -ms-transform:rotate(10deg);
+  filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=.2);
+}
+#sherlock2{
+  width: 560;
+  height: 315;
+  margin-top: 75px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+
+  -moz-box-shadow: 4px 4px 14px #000;
+  -webkit-box-shadow: 4px 4px 14px #000;
+  box-shadow: 4px 4px 14px #000;
+
+  -moz-transform:rotate(-10deg);
+  -webkit-transform:rotate(-10deg);
+  -o-transform:rotate(-10deg);
+  -ms-transform:rotate(-10deg);
+  filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=.2);
+}
